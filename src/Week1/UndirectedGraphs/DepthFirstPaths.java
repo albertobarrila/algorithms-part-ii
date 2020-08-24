@@ -1,3 +1,7 @@
+package Week1.UndirectedGraphs;
+
+import edu.princeton.cs.algs4.Stack;
+
 public class DepthFirstPaths {
     private boolean[] marked;
     private int[] edgeTo;

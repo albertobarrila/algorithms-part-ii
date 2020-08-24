@@ -1,3 +1,5 @@
+package Week1.UndirectedGraphs;
+
 public class CC {
     private boolean marked[];
     private int id[];

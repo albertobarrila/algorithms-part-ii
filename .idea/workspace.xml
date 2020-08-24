@@ -37,11 +37,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Temp/wordnet" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Week1.DirectedGraph" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\personal\algorithms-part-ii\week-1\directed-graph" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\personal\algorithms-part-ii\src" />
+      <recent name="C:\Projects\personal\algorithms-part-ii" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -67,13 +83,22 @@
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="1020" y="189" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1597812323702" />
-    <state x="988" y="447" key="FileChooserDialogImpl" timestamp="1597812149560">
+    <state x="1039" y="575" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597931005939">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
+    <state x="1039" y="575" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1597931005939" />
+    <state x="593" y="265" key="FileChooserDialogImpl" timestamp="1598025319494">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
     <state x="988" y="447" key="FileChooserDialogImpl/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1597812149560" />
+    <state x="593" y="265" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598025319494" />
     <state x="761" y="280" key="SettingsEditor" timestamp="1597812159117">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="761" y="280" key="SettingsEditor/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1597812159117" />
+    <state x="564" y="165" key="refactoring.ChangeSignatureDialog" timestamp="1597978945928">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="564" y="165" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1597978945928" />
   </component>
 </project>

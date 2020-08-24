@@ -1,3 +1,5 @@
+package Week1.UndirectedGraphs;
+
 import edu.princeton.cs.algs4.Bag;
 
 public class Graph {
@@ -10,7 +12,7 @@ public class Graph {
         for (int v = 0; v < V; v++)
             adj[v] = new Bag<Integer>();
     }
-    
+
     void addEdge(int v, int w) {
         adj[v].add(w);
         adj[w].add(v);
